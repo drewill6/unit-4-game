@@ -1,7 +1,4 @@
 /* General Elements*/
-body{
-	background-image: url("../images/background.png")
-}
 div{
 	background-color: white;
 	margin: 10px;
@@ -61,4 +58,9 @@ div.header, div.instructions{
 }
 #yellow{
 	color: #ffc225;
+}
+
+body {
+    background-image: url("../images/background tile.jpeg");
+    background-repeat: repeat;
 }
