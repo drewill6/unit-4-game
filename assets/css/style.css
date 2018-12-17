@@ -48,7 +48,7 @@ div.header, div.instructions{
 }
 /* IDs */
 #blue{
-	color: #3092c7;
+    color: #3092c7;
 }
 #green{
 	color: #00aa59;
@@ -61,6 +61,6 @@ div.header, div.instructions{
 }
 
 body {
-    background-image: url("../images/background tile.jpeg");
+    background-image: url("../images/blackbackground.jpeg");
     background-repeat: repeat;
 }
